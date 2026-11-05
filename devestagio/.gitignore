@@ -1,0 +1,6 @@
+# Arquivos gerados na compilação
+target/
+*.class
+
+# Configuração local com dados de conexão
+src/main/resources/application.properties
